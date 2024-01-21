@@ -1,6 +1,7 @@
 
 # About this repository
-This was a final group project for the "Fundamentals of ML" class. The class collectively gathered our own unique training images of common company logos. The goal was to accuratly classify the logos. Ultimately, the best strategy we found was to implement transfer learning on the ResNet50 architecture with a layer of data augmentation. We collectivly followed a tutorial to implement the transfer learning. To compare with transfer learning, I trained some naive models in the file "Final Project - Training Data.ipynb". They were variations of Support Vector Machines and Logistic Regression. Some had a step of Principal Component Analysis or Linear Discriminant Analysis in the pipeline as well. 
+This was a final group project for the "Fundamentals of ML" class. The class collectively gathered our own unique training images of common company logos. The goal was to accuratly classify the logos. Ultimately, the best strategy we found was to implement transfer learning on the ResNet50 architecture with a layer of data augmentation. We collectivly followed a tutorial to implement the transfer learning. This was implemnted in "train.py".  
+To compare with the transfer learning model, I trained some naive models in the file "Final Project - Training Data.ipynb". They were variations of Support Vector Machines and Logistic Regression. Some had a step of Principal Component Analysis or Linear Discriminant Analysis in the pipeline as well. 
 
 # Final Project
 
