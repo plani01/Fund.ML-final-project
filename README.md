@@ -1,13 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/LW9jbkQZ)
+
+# About this repository
+This was a final group project for the "Fundamentals of ML" class. The class collectively gathered our own unique training images of common company logos. The goal was to accuratly classify the logos. Ultimately, the best strategy we found was to implement transfer learning on the ResNet50 architecture with a layer of data augmentation. We collectivly followed a tutorial to implement the transfer learning. To compare with transfer learning, I trained some naive models in the file "Final Project - Training Data.ipynb". They were variations of Support Vector Machines and Logistic Regression. Some had a step of Principal Component Analysis or Linear Discriminant Analysis in the pipeline as well. 
+
 # Final Project
-
-This is a **group assignment**.
-
-## Code Implementation & Technical Report
-
-The final deliverables include a 4-page IEEE-format report, code implementation and a detailed GitHub readme file.
-
-The final project is due Wednesday, April 26 @ 11:59 PM. Find the complete [rubric](https://ufl.instructure.com/courses/469791/assignments/5497341) in the Canvas assignment.
 
 ## Training Data
 
